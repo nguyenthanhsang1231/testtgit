@@ -58,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1698726904008</updated>
       <workItem from="1698726906496" duration="1753000" />
-      <workItem from="1698734033486" duration="2271000" />
+      <workItem from="1698734033486" duration="2644000" />
     </task>
     <servers />
   </component>
@@ -70,19 +70,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="sang" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
